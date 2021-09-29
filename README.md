@@ -1,0 +1,1 @@
+# movinfg-average-of-a-sequence
